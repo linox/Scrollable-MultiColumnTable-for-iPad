@@ -12,11 +12,11 @@ You can create scrollable multi column in two ways:
 
 1. Programmatically, just using a code below
 
-	scrollTable = [[MCTableScrollContainer alloc] initWithFrame:CGRectMake(15, 15, 738, 440) andColumnWidthes:testColumns];
-	scrollTable.dataSource = self;
-	scrollTable.styleDelegate = self;
+		scrollTable = [[MCTableScrollContainer alloc] initWithFrame:CGRectMake(15, 15, 738, 440) andColumnWidthes:testColumns];
+		scrollTable.dataSource = self;
+		scrollTable.styleDelegate = self;
 	
-	[self.view addSubview:scrollTable];
+		[self.view addSubview:scrollTable];
 	
 2. Using interface builder:
 
