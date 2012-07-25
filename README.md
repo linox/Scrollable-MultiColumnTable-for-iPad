@@ -1,7 +1,7 @@
 Scrollable MultiColumnTable for iPad
 ====================================
 
-Scrollable MultiColumn Table easy to use, and easily customizable table control for iOS. Simply add the header, implement MCTableDataSource delegate and MCTableStyleDelegate (optional).
+Scrollable MultiColumn Table is easy-to-use and easily customizable table control for iOS. Simply add the header, implement MCTableDataSource delegate and MCTableStyleDelegate (optional).
 
 ![SMCTable Screenshot](https://github.com/downloads/Eclair90/Scrollable-MultiColumnTable-for-iPad/SMCTable01.PNG)
 
