@@ -3,7 +3,7 @@ Scrollable MultiColumnTable for iPad
 
 Scrollable MultiColumn Table easy to use, and easily customizable table control for iOS. Simply add the header, implement MCTableDataSource delegate and MCTableStyleDelegate (optional).
 
-![alt text](http://s17.postimage.org/hqwxclxbx/IMG_0008.png "Scrollable MultiColumnTable")
+![SMCTable Screenshot](https://github.com/downloads/Eclair90/Scrollable-MultiColumnTable-for-iPad/SMCTable01.PNG)
 
 Examples
 ========
@@ -23,4 +23,4 @@ You can create scrollable multi column in two ways:
 In xib file add UIScrollView, change class to "MCTableScrollContainer"
 You can also add initial columns to table, by adding key/value pairs with key "column" and value that contains column widths;
 
-![alt text](http://s18.postimage.org/ygpgzj8ev/2012_07_25_14_27_42.png "Scrollable MultiColumnTable using Xib")
+![SMCTable xibexample](https://github.com/downloads/Eclair90/Scrollable-MultiColumnTable-for-iPad/SMCTable02.png)
